@@ -1,0 +1,117 @@
+{
+    "Laterne_a": {
+        "PosX": 140,
+        "PosY": 200
+    },
+
+    "Laterne_b": {
+        "PosX": 200,
+        "PosY": 200
+    },
+
+    "Laterne_c": {
+        "PosX": 260,
+        "PosY": 200
+    },
+
+    "Laterne_d": {
+        "PosX": 370,
+        "PosY": 200
+    },
+
+    "Laterne_e": {
+        "PosX": 430,
+        "PosY": 200
+    },
+
+    "Laterne_f": {
+        "PosX": 490,
+        "PosY": 200
+    },
+
+    "Laterne_g": {
+        "PosX": 550,
+        "PosY": 200
+    },
+
+    "Laterne_h": {
+        "PosX": 610,
+        "PosY": 200
+    },
+
+    "Laterne_i": {
+       "PosX": 720,
+       "PosY": 200
+    },
+
+    "Laterne_j": {
+        "PosX": 780,
+        "PosY": 200
+    },
+
+    "Laterne_k": {
+        "PosX": 840,
+        "PosY": 200
+    },
+
+    "Laterne_l": {
+        "PosX": 315,
+        "PosY": 25
+    },
+
+    "Laterne_m": {
+        "PosX": 315,
+        "PosY": 85
+    },
+
+    "Laterne_n": {
+        "PosX": 315,
+        "PosY": 145
+    },
+
+    "Laterne_o": {
+        "PosX": 315,
+        "PosY": 255
+    },
+
+    "Laterne_p": {
+        "PosX": 315,
+        "PosY": 315
+    },
+
+    "Laterne_q": {
+        "PosX": 315,
+        "PosY": 375
+    },
+
+    "Laterne_r": {
+        "PosX": 665,
+        "PosY": 25
+    },
+
+    "Laterne_s": {
+        "PosX": 665,
+        "PosY": 85
+    },
+
+    "Laterne_t": {
+        "PosX": 665,
+        "PosY": 145
+    },
+
+    "Laterne_u": {
+        "PosX": 665,
+        "PosY": 255
+    },
+
+    "Laterne_v": {
+        "PosX": 665,
+        "PosY": 315
+    },
+
+    "Laterne_w": {
+        "PosX": 665,
+        "PosY": 375
+    }
+
+}

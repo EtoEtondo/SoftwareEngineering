@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1071</width>
+    <height>465</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Demo</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QLabel" name="kreuzung1">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>90</y>
+      <width>341</width>
+      <height>251</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="data/data.qrc">:/Kreuzung.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="kreuzung2">
+    <property name="geometry">
+     <rect>
+      <x>530</x>
+      <y>90</y>
+      <width>340</width>
+      <height>251</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="data/data.qrc">:/Kreuzung.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="horizontale1">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>180</y>
+      <width>121</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="data/data.qrc">:/Gerade.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="horizontale2">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>180</y>
+      <width>121</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="data/data.qrc">:/Gerade.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="vertikale2">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>310</y>
+      <width>71</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="data/data.qrc">:/vertikale.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="vertikale5">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>310</y>
+      <width>71</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="data/data.qrc">:/vertikale.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="vertikale1">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>20</y>
+      <width>71</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="data/data.qrc">:/vertikale.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="vertikale4">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>20</y>
+      <width>71</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="data/data.qrc">:/vertikale.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="horizontale3">
+    <property name="geometry">
+     <rect>
+      <x>830</x>
+      <y>180</y>
+      <width>121</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="data/data.qrc">:/Gerade.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="rasen5">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>250</y>
+      <width>275</width>
+      <height>161</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="data/data.qrc">:/rasen.jpg</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="rasen2">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>20</y>
+      <width>275</width>
+      <height>161</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="data/data.qrc">:/rasen.jpg</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="rasen6">
+    <property name="geometry">
+     <rect>
+      <x>720</x>
+      <y>250</y>
+      <width>231</width>
+      <height>161</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="data/data.qrc">:/rasen.jpg</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="rasen3">
+    <property name="geometry">
+     <rect>
+      <x>720</x>
+      <y>20</y>
+      <width>228</width>
+      <height>161</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="data/data.qrc">:/rasen.jpg</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="rasen1">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>20</y>
+      <width>228</width>
+      <height>161</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="data/data.qrc">:/rasen.jpg</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="rasen4">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>250</y>
+      <width>228</width>
+      <height>161</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="data/data.qrc">:/rasen.jpg</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="car">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>220</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap resource="data/data.qrc">:/car.png</pixmap>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="data/data.qrc"/>
+ </resources>
+ <connections/>
+</ui>

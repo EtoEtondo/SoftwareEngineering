@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Kreuzung.png</file>
+        <file>on.png</file>
+        <file>Gerade.png</file>
+        <file>vertikale.png</file>
+        <file>laternenliste.json</file>
+        <file>car.png</file>
+        <file>off.png</file>
+        <file>rasen.jpg</file>
+        <file>they_see_me_rollin.mp3</file>
+    </qresource>
+</RCC>
